@@ -15,6 +15,9 @@ Completed BCGX's job simulation analyzing campaign performance data and communic
 - **New Customers:** Campaign A drove $3,726.99 vs Campaign B's $2,117.44
 - **Recommendation:** Prioritize Campaign A via Email to drive new customer growth — it consistently outperformed Campaign B, and Email remains the strongest channel overall.
 
+## Presentation Slide
+
+![Campaign Recommendation](campaign-recommendation-slide.png)
 
 ## Files
 - `BCGX_Sales_Analysis.xlsx` — pivot table analysis
